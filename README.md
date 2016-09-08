@@ -1,0 +1,2 @@
+# nedbserver
+nedb as server
