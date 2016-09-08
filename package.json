@@ -1,0 +1,12 @@
+{
+  "name": "nedbserver",
+  "version": "0.0.1",
+  "description": "nedb as server",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+  },
+  "author": ""
+}
