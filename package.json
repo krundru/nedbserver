@@ -2,11 +2,13 @@
   "name": "nedbserver",
   "version": "0.0.1",
   "description": "nedb as server",
-  "main": "index.js",
   "scripts": {
     "test": ""
   },
+  "author": "kumara undru (lookatsrc@gmail.com)",
   "dependencies": {
-  },
-  "author": ""
+    "minimist": "^1.2.0",
+    "nedb": "^1.8.0",
+    "nssocket": "^0.6.0"
+  }
 }
