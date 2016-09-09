@@ -9,6 +9,7 @@
   "dependencies": {
     "minimist": "^1.2.0",
     "nedb": "^1.8.0",
-    "nssocket": "^0.6.0"
+    "nssocket": "^0.6.0",
+    "promise": "^7.1.1"
   }
 }
