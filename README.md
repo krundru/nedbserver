@@ -2,4 +2,4 @@
 nedb as server
 
 ### start server
-` node ./lib/index.js --dir=<path/to/database> --port=7000 `
+` node ./lib/server.js --dir=<path/to/database> --port=7000 `
